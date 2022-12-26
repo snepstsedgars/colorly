@@ -4,8 +4,9 @@
   "description": "color inspect for HEX, RGB, HSL, and CMYK",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build",    
     "serve": "vite preview",
+    "firebase-build": "./scripts/firebase-build.sh",    
     "deploy:gh": "git subtree push --prefix public origin gh-pages"
   },
   "dependencies": {
