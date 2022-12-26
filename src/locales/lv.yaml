@@ -1,0 +1,60 @@
+navbar:
+  history: Vēsture
+  convert: Konvertēt
+  picker: Krāsas lasītājs
+tooltip:
+  palette_icon: Paletes Krāsa
+  style_icon: CSS/SCSS Stils
+  copy_icon: Kopēt us klipbordu
+  select_lang: Izvēlies valodu
+  theme_indicator: Krāsu motīva kontrasta indikators
+yiq:
+  label_small: kontrasta attiecība
+  contrast_black: melns
+  contrast_white: balts
+wcag:
+  label_small: rezultāts
+  large_text: Liels teksts
+  normal_text: Mazss teksts
+gradient:
+  label_title: Gradients
+  label_small: krāsa
+convert:
+  label_title: Konvertēt
+  label_small: uz
+  btn_to: uz
+random:
+  label_title: Ģenerēt
+  label_small: nejaušu krāsu
+  label_space: vai nospiediet atstarpi
+  btn_text: Nejauša Krāsa
+modal:
+  palette:
+    label_title: Palete
+    label_small: krāsu harmonijas
+    description: Pamatmetodes krāsu kombinēšanai. Zemāk ir parādīta paletes krāsa, pamatojoties uz krāsu apli.
+    learn_more: Uzziniet vairāk par
+    p1_label_small: 'krāsa:'
+    p2_label_small: 'krāsa:'
+    p3_label_small: 'krāsa:'
+  style:
+    label_title: Stils
+    label_small: krāsa
+  history:
+    label_title: Vēsture
+    label_small: 'Pēdējā krāsa:'
+    empty: Šeit tiks rādīta jūsu krāsu vēsture.
+camera.start_camera: Sāciet Videokameru
+color_result:
+  label_title: Rezultāts
+  label_small: krāsa
+  empty: Šeit tiks parādīta jūsu uzņemtā krāsa.
+notyf:
+  copy_success: Krāsa tika kopēta uz klipbordu!
+  error_general: Ak, kaut kas nogāja greizi!
+  color_invlid: Nederīgs krāsu formāts klipborda
+  torch_error: Kļūda, pārslēdzot zibspuldzi
+  camera_permission_denied: Kameras atļauja ir LIEGTA. Lūdzu, atļaujiet to, lai turpinātu.
+pwa:
+  offline_ready: Gatavs bezsaistes režīmam
+  update_ready: Darbojas automātiskā atjaunināšana
